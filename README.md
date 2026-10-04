@@ -39,7 +39,7 @@
 
 ## 🚀 線上即時體驗 (GitHub Pages)
 
-本專案已支援 GitHub Pages，點擊即可在瀏覽器中直接運行體驗。
+👉 **即時線上體驗網址**：[https://williamslchang-blip.github.io/climate-transition-case-simulator/](https://williamslchang-blip.github.io/climate-transition-case-simulator/)
 
 ---
 
